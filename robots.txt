@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://huaaa.github.io/huaaa.github.io//sitemap.xml
+User-agent: * Disallow: Sitemap: https://huaaa.github.io/sitemap.xml
